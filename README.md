@@ -1,6 +1,6 @@
 👋 Hi, I'm Mike (gba-mep)
 <div align="center">
-大灣區工程自動化 | GBA Engineering Automation
+大湾区工程自动化 | GBA Engineering Automation
 
 MEP Engineering Project Manager × AI Automation Builder Building practical tools for real construction jobsites — automating the boring stuff so engineers can focus on engineering.
 
@@ -9,44 +9,44 @@ MEP Engineering Project Manager × AI Automation Builder Building practical tool
 MIT LicensePublic reposMade for GBA
 
 </div>
-🎯 關於我 / About
-從事工程多年，由前線地盤到項目管理，深深體會到工程行業數碼化嘅落後。 大灣區基建如火如荼，但好多公司仲係用人手做重複性文書工作。
+🎯 关于我 / About
+从事工程多年，由前线地盘到项目管理，深深体会到工程行业数码化的落后。 大湾区基建如火如荼，但好多公司仲是用人手做重复性文书工作。
 
-我相信：工程人嘅時間，應該用喺解決工程問題，唔係用喺對齊同排版。
+我相信：工程人的时间，应该用在解决工程问题，不是用在对齐同排版。
 
-呢度嘅每一個工具，都係從真實地盤痛點出發，喺多個 GBA 工程項目中實戰驗證過。 唔係玩具項目 — 係每日都用緊嘅生產力工具。
+这里的每一个工具，都是从真实地盘痛点出发，在多个 GBA 工程项目中实战验证过。 不是玩具项目 — 是每日都用紧的生产力工具。
 
-🎯 專注領域 / Focus Areas
-🏗️ Construction Automation — 將 MEP 工程嘅重複工作自動化
-📄 Document Generation — Word / Excel / CAD / PDF 全鏈路打通
-🤖 AI Agent Skills — 構建解決特定問題嘅專用技能
-🌏 Greater Bay Area — 大灣區工程經驗內化到每一個工具
-💡 From Jobsite, For Jobsite — 由地盤痛點驅動，唔係為自動化而自動化
-🔧 精選項目 / Selected Work
-工具	解決嘅問題
-daily-construction-log	施工日報自動生成：複製昨日、抓天氣／潮汐、自動嵌照片、合併 PDF
-python-docx-photo-grid	Word 報告嘅自適應雙欄照片排版（藍色系模板 + 承建商頁眉）
-confined-space-planner	密閉空間施工方案自動生成：ISO 31000 風險評估、工作許可、應急程序
-electrical-panel-label-plates	電箱標籤牌全鏈路：CAD 圖 → Word 標籤 → DXF 切割檔（17:25 設計規則）
-excel-template-filler	雙引擎 Excel 模板批量填寫：保住圖片、列印設定同格式（openpyxl 做唔到嘅部分）
-officecli-workflow	OfficeCLI 批量文件改動工作流：Word / Excel / PPT 嘅 PowerShell 實戰配方
-VBA-Macro-Reader-v2.0.0	讀取、修改、執行 .xlsm／.xlam 嘅 VBA 巨集（oletools 跨平台讀 + win32com 全控）
-docx-toc	為既有 .docx 插入真正嘅 Word 目錄域（DSH 插件 + SkillHub 技能，MIT）
-全部 MIT 授權，可直接用喺工程項目。
+🎯 专注领域 / Focus Areas
+🏗️ Construction Automation — 将 MEP 工程的重复工作自动化
+📄 Document Generation — Word / Excel / CAD / PDF 全链路打通
+🤖 AI Agent Skills — 构建解决特定问题的专用技能
+🌏 Greater Bay Area — 大湾区工程经验内化到每一个工具
+💡 From Jobsite, For Jobsite — 由地盘痛点驱动，不是为自动化而自动化
+🔧 精选项目 / Selected Work
+工具	解决的问题
+daily-construction-log	施工日报自动生成：复制昨日、抓天气／潮汐、自动嵌照片、合并 PDF
+python-docx-photo-grid	Word 报告的自适应双栏照片排版（蓝色系模板 + 承建商页眉）
+confined-space-planner	密闭空间施工方案自动生成：ISO 31000 风险评估、工作许可、应急程序
+electrical-panel-label-plates	电箱标签牌全链路：CAD 图 → Word 标签 → DXF 切割档（17:25 设计规则）
+excel-template-filler	双引擎 Excel 模板批量填写：保住图片、列印设定同格式（openpyxl 做不到的部分）
+officecli-workflow	OfficeCLI 批量文件改动工作流：Word / Excel / PPT 的 PowerShell 实战配方
+VBA-Macro-Reader-v2.0.0	读取、修改、执行 .xlsm／.xlam 的 VBA 巨集（oletools 跨平台读 + win32com 全控）
+docx-toc	为既有 .docx 插入真正的 Word 目录域（DSH 插件 + SkillHub 技能，MIT）
+全部 MIT 授权，可直接用在工程项目。
 
-📫 聯絡我 / Contact
-做緊類似嘅嘢？有地盤痛點想自動化？ 歡迎聯絡，最鍾意同同行傾計。
+📫 联络我 / Contact
+做紧类似的东西？有地盘痛点想自动化？ 欢迎联络，最钟意同同行倾计。
 
 📧 Email: david_1999cn@hotmail.com
 
-💬 傾吓計：
+💬 倾吓计：
 
-工程自動化方案諮詢
-企業定製開發
-內部培訓工作坊
-開源項目合作
+工程自动化方案咨询
+企业定制开发
+内部培训工作坊
+开源项目合作
 <div align="center">
-Building tools for real jobsites. One script at a time. 大灣區工程自動化 — 從地盤嚟，為地盤做。
+Building tools for real jobsites. One script at a time. 大湾区工程自动化 — 从地盘来，为地盘做。
 
 Followers
 
